@@ -1,0 +1,13 @@
+Day 1 – Key Terms Exercise
+
+1. Example of Data:
+100 customers visits the shop
+
+2. Example of Information:
+50% of them buyed the champions league cards
+
+3. Example of Insight:
+The ad was helpful
+
+4. Example of KPI:
+Revenue
