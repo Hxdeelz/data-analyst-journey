@@ -1,0 +1,11 @@
+Day 2 – Data Analyst Role Exercise
+
+1. One responsibility of a Data Analyst:
+cleaning and clensing data
+
+2. One difference between Data Analyst and Data Scientist:
+ data analyst focuses on analyzing existing data and providing insights
+to support business decisions while Data Scientost focuses more on predicting and machine learning
+
+3. Why is Python useful for Data Analysts?
+It  and has powerful libraries for data analysis such as Pandas and NumPy.

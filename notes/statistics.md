@@ -19,3 +19,25 @@ Businesses need data to:
 - **Information**: processed data that has meaning
 - **Insight**: a meaningful conclusion derived from information
 - **KPI**: a metric used to measure business performance
+
+---
+
+## Day 2 – Data Analyst Role & Tools
+
+### Data Analyst vs Other Data Jobs
+
+A data analyst focuses on analyzing existing data and providing insights
+to support business decisions, unlike data scientists who focus more on
+prediction and machine learning.
+
+### Data Analyst Responsibilities
+
+- analyze data
+- create reports and dashboards
+- support decision making
+- work with business teams
+
+### Why Python?
+
+Python is used because it is simple, flexible, and has powerful libraries
+for data analysis such as Pandas and NumPy.
